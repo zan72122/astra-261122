@@ -14,5 +14,9 @@
  "s-20k-v1": {
   "file": "thumbs/s-20k-v1.jpg",
   "kind": "real"
+ },
+ "s-21k-v1": {
+  "file": "thumbs/s-21k-v1.jpg",
+  "kind": "real"
  }
 }
